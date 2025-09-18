@@ -1,4 +1,4 @@
-# Awesome Email Dev 🚀
+# Awesome Email For Developers 🚀
 
 > An awesome developer-first collection for building better emails.
 
